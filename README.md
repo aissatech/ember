@@ -1,11 +1,12 @@
 # EmberJS
 
+
 EmberJS samples and some full applications
 
-## About
+### About
 Ember is a MVC javascript framework who allows to create scalable single-page applications.
 
-## Elements
+### Elements
 * `Routes`
 A route object corresponds to a URL that synthesize the state of the application. Routes are defined in the singleton Router object (the core concept of Ember)
 
@@ -24,7 +25,7 @@ Views are used typically to add sophisticated handling of user events, JavaScrip
 * `Components`
 Components are specialized views for creating custom elements (application-specific HTML tag) in acording with the W3C, that can be easily reused in other templates. 
 
-## Requirements:
+### Requirements:
 
 Ember v1.2.*+
 
